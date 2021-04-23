@@ -8,7 +8,7 @@ $().ready(function() {
 
 	$(".site-footer").append("<div style='text-align:center'><small>Licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA.</a> <br><a href='changelog.md'>Licence change log</a></small></div>")
 	$(".site-footer-owner").hide()
-
+        $(".site-footer-credits").hide()	
 	$(".main-content").attr('style', 'max-width:60rem; font-size:1.2rem');
 });
 
