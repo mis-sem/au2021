@@ -8,6 +8,8 @@ $().ready(function() {
 
 	$(".site-footer").append("<div style='text-align:right'>&copy; clbo@kea.dk, spring 2021</div>")
 	$(".site-footer-owner").hide()
+
+	$(".main-content").attr('style', 'max-width:60rem; font-size:1.2rem');
 });
 
 /*
