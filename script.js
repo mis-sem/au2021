@@ -6,7 +6,7 @@ $().ready(function() {
 	//$(".page-header").append("<div>Teacher: Claus Bove, clbo@kea.dk</div>")
 	$(".main-content").prepend("<div><i><small><a href='index.html'>Undervisningsplan</a> </small></i></div>")
 
-	$(".site-footer").append("<div style='text-align:right'>&copy; clbo@kea.dk, spring 2021</div>")
+	$(".site-footer").append("<div style='text-align:right'>Licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA.</a> <a href='changelog.md'>Licence change log</a></div>")
 	$(".site-footer-owner").hide()
 
 	$(".main-content").attr('style', 'max-width:60rem; font-size:1.2rem');
