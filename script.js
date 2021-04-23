@@ -1,15 +1,16 @@
-/*$().ready(function() {
+$().ready(function() {
 	// $("h1:first").css("display", "none");
-	$("h1:first").html("Teknologi @ Kea");
-	//$(".page-header a").hide()
-	$(".page-header").append("<div>Dat20A & Dat20B forår 2021</div>")
-	//$(".page-header").append("<div>Underviser: Claus Bove, clbo@kea.dk</div>")
+	$("h1:first").html("./missing semester");
+	$(".page-header a").hide()
+	$(".page-header").append("<div>Elective at KEA CS Fall 2021</div>")
+	//$(".page-header").append("<div>Teacher: Claus Bove, clbo@kea.dk</div>")
 	$(".main-content").prepend("<div><i><small><a href='index.html'>Undervisningsplan</a> </small></i></div>")
 
 	$(".site-footer").append("<div style='text-align:right'>&copy; clbo@kea.dk, spring 2021</div>")
 	$(".site-footer-owner").hide()
 });
-*/
+
+/*
 
 $().ready(function() {
 		$("h1:first").css("display", "none");
@@ -17,4 +18,4 @@ $().ready(function() {
 		$(".markdown-body").prepend("<div><i><small>Dat20B & Dat20C, Teknologi 1, 2. Semester Forår 2021, Underviser: Claus Bove, clbo@kea.dk</small></i></div>")
 		$(".markdown-body").append("<div style='text-align:right'><i><small>&copy; clbo@kea.dk, Forår 2021</small></i></div>")	
 });
-
+*/
