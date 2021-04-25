@@ -9,7 +9,7 @@ $().ready(function() {
 	$(".site-footer-owner").hide()
         $(".site-footer-credits").hide()	
 	$(".main-content").attr('style', 'max-width:60rem; font-size:1.2rem');
-	$(".page-header").attr('style', 'padding: 5rem 26rem');
+	$(".page-header").attr('style', 'padding: 5rem 30rem');
 
 });
 
