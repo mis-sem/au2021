@@ -1,5 +1,5 @@
 $().ready(function() {
-	$("head").append("<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>");
+	//$("head").append("<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>");
 	// $("h1:first").css("display", "none");
 	$("h1:first").html("./missing semester");
 	$(".page-header a:first").hide()
