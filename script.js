@@ -1,9 +1,10 @@
 $().ready(function() {
+	$("head").append("<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">");
 	// $("h1:first").css("display", "none");
 	$("h1:first").html("./missing semester");
 	$(".page-header a:first").hide()
 	//$(".page-header").append("<div>Elective at KEA CS Fall 2021</div>")
-	$(".page-header").append("<div><a href='' style='color:white; font-weight:bold '>./missing_semester</a> | <a href='' style='color:white; font-weight:bold '>lectures</a> | <a href='' style='color:white; font-weight:bold '>about</a></div>")
+	$(".page-header").append("<div><a href='' style='color:white; font-weight:bold '><i class="fa fa-home"></i></a> | <a href='' style='color:white; font-weight:bold '>lectures</a> | <a href='' style='color:white; font-weight:bold '>about</a></div>")
 	//$(".page-header").append("<div style='text-align:right; margin-bottom: -70px;margin-top: 30px; '><a href='' style='color:white; font-weight:bold '>./missing_semester</a> | <a href='' style='color:white; font-weight:bold '>lectures</a> | <a href='' style='color:white; font-weight:bold '>about</a></div>")
 
 	$(".site-footer").append("<div style='text-align:center'><small>Licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA.</a> <br><a href='changelog.md'>Licence change log</a> <br> Claus Bove (clbo@kea.dk) <br> <a href='https://missing.csail.mit.edu/'> MIT - The Missing Semester</a></small></div>")
