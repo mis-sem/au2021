@@ -9,7 +9,7 @@
 * [Session 3: Shell Tools and Scripting](3.html)
 * [Sesion 4: Editors (Vim)](4.html)
 * [Session 5: Data wrangeling](5.html)
-* [6](6.html)
+* [Session 6: Commnad-line environment](6.html)
 * [7](7.html)
 * [8](8.html)
 * [9](9.html)
