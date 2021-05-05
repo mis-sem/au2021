@@ -4,9 +4,9 @@
 # ./missing_semester
 
 
-* [1](1.html)
-* [2](2.html)
-* [3](3.html)
+* [Session 1: Course overview + Virtual machines & Linux](1.html)
+* [Session 2: The Shell](2.html)
+* [Session 3: Shell Tools and Scripting](3.html)
 * [4](4.html)
 * [5](5.html)
 * [6](6.html)

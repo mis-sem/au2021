@@ -2,12 +2,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="script.js"></script>
 
-
-
-
-# 5. Data Wrangling
-
-
+# Session 5: Data Wrangling
 Have you ever wanted to take data in one format and turn it into a
 different format? Of course you have! That, in very general terms, is
 what this lecture is all about. Specifically, massaging data, whether in
