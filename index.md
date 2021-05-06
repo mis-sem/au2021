@@ -5,7 +5,7 @@
 
 |   |   |    
 |---|---|    
-|   |   |    
+|[Session 1: Course overview + Virtual machines & Linux](1.html)|   |    
 |   |   |    
 |   |   |    
 
