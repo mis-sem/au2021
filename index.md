@@ -3,11 +3,12 @@
 <script src="script.js"></script>
 # Schedule 
 
-|   |   |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
+|   |   |    
+|---|---|    
+|   |   |    
+|   |   |    
+|   |   |    
+
 * [Session 1: Course overview + Virtual machines & Linux](1.html)
 * [Session 2: The Shell](2.html)
 * [Session 3: Shell Tools and Scripting](3.html)
