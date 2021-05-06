@@ -5,10 +5,10 @@
 
 |   |   |    
 |---|---|    
-||[Session 1: Course overview + Virtual machines & Linux](1.html)|   
-|   |   |    
-|   |   |    
-
+|30-08-2021|[Session 1: Course overview + Virtual machines & Linux](1.html)|   
+|06-08-2021   |* [Session 2: The Shell](2.html)|    
+|13-08-2021   |* [Session 3: Shell Tools and Scripting](3.html)|
+|
 * [Session 1: Course overview + Virtual machines & Linux](1.html)
 * [Session 2: The Shell](2.html)
 * [Session 3: Shell Tools and Scripting](3.html)
