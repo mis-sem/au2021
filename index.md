@@ -1,9 +1,13 @@
 <!-- JS use if these pages are used as githubpages. can be deleted if used elsewhere -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="script.js"></script>
-# ./missing_semester
+# Schedule 
 
-
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
 * [Session 1: Course overview + Virtual machines & Linux](1.html)
 * [Session 2: The Shell](2.html)
 * [Session 3: Shell Tools and Scripting](3.html)
