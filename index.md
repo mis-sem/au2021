@@ -10,11 +10,11 @@
 || [Sesion 4: Editors (Vim)](editors.html)|
 || [Session 5: Data wrangeling](data.wrangling.html)|
 || [Session 6: Commnad-line environment](commandline-env.html)|
-|| [Session 7: Version Control (Git))](version-control.html)|
-|| [Session 8: Debugging and Profiling)](debugging-profiling.html)|
-|| [Session 9: Metaprogramming)](metaprogramming.html)|
-|| [Session 10: Security and Cryptography)](security-crypt.html)|
-|| [Session 11: Potpourri)](potpourri.html)|
-|| [Session 12: Q&A)](q-a.html)|
-|| [Session 13: Exampreperation )](examprep.html)|
-|| [Session 14: Exampreperation )](examprep.html)|
+|| [Session 7: Version Control (Git)](version-control.html)|
+|| [Session 8: Debugging and Profiling](debugging-profiling.html)|
+|| [Session 9: Metaprogramming](metaprogramming.html)|
+|| [Session 10: Security and Cryptography](security-crypt.html)|
+|| [Session 11: Potpourri](potpourri.html)|
+|| [Session 12: Q&A](q-a.html)|
+|| [Session 13: Exampreperation](examprep.html)|
+|| [Session 14: Exampreperation ](examprep.html)|
