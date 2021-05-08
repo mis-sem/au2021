@@ -1,7 +1,8 @@
 <!-- JS use if these pages are used as githubpages. can be deleted if used elsewhere -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="script.js"></script>
-# Version Control (git)
+
+# Session 7: Version Control (git)
 
 Version control systems (VCSs) are tools used to track changes to source code
 (or other collections of files and folders). As the name implies, these tools
