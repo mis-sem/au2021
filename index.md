@@ -8,7 +8,7 @@
 |06-08-2021|[Session 2: The Shell](2.html)|    
 |13-08-2021|[Session 3: Shell Tools and Scripting](3.html)|    
 || [Sesion 4: Editors (Vim)](editors.html)|
-|| [Session 5: Data wrangeling](data.wrangling.html)|
+|| [Session 5: Data wrangeling](data-wrangling.html)|
 || [Session 6: Commnad-line environment](commandline-env.html)|
 || [Session 7: Version Control (Git)](version-control.html)|
 || [Session 8: Debugging and Profiling](debugging-profiling.html)|
